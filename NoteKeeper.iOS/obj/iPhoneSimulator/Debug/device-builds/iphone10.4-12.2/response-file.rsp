@@ -1,5 +1,5 @@
---cache=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/mtouch-cache
---sim=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/NoteKeeper.iOS.app
+--cache=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/mtouch-cache
+--sim=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/NoteKeeper.iOS.app
 --executable=NoteKeeper.iOS
  --debug
  --sgen-conc
@@ -10,10 +10,10 @@
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
---symbollist=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/mtouch-symbols.list
+--symbollist=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/mtouch-symbols.list
  --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
--r=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
+-r=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
@@ -203,7 +203,7 @@
 -r=/Users/karlmac/.nuget/packages/xamarin.forms/4.0.0.425677/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/karlmac/.nuget/packages/xamarin.forms/4.0.0.425677/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/karlmac/.nuget/packages/xamarin.forms/4.0.0.425677/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
--r=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
+-r=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
  --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/NoteKeeper.iOS.exe
+--root-assembly=/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/NoteKeeper.iOS.exe
  

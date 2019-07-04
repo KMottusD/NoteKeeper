@@ -14,6 +14,7 @@ namespace NoteKeeper
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
+
             MainPage = new MainPage();
         }
 
