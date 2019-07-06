@@ -14,6 +14,9 @@ namespace NoteKeeper.ViewModels
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>() ?? new MockDataStore();
 
+        public IPluralsightDataStore PluralsightDataStore =>
+            DependencyService.Get<IPluralsightDataStore>() ?? new MockPluralsightDataStore();
+
         bool isBusy = false;
         public bool IsBusy
         {
