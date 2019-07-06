@@ -674,3 +674,4 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Runtime.dll
