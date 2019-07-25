@@ -35,4 +35,3 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csprojAssemblyReference.cache

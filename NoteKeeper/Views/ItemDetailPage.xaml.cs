@@ -31,12 +31,12 @@ namespace NoteKeeper.Views
 
         public void Cancel_Clicked(object sender, EventArgs eventArgs)
         {
-            DisplayAlert("Cancel option", "Cancel was selected", "Button 2", "Button 1");
+            DisplayAlert("Cancel option", "Are you sure you want to cancel?", "Yes", "NO");
         }
 
         public void Save_Clicked(object sender, EventArgs eventArgs)
         {
-            DisplayAlert("Save option", "Save was selected", "Button 2", "Button 1");
+            DisplayAlert("Save option", "Save was selected", "Save", "Cancel");
         }
     }
 }
