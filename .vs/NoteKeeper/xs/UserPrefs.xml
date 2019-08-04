@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
+  <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Views/ItemDetailPage.xaml.cs">
+    <Files>
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" Line="5" Column="51" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="34" Column="76" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" />
+      <File FileName="NoteKeeper/Services/IPluralsightDataStore.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoteKeeper" expanded="True">
+            <Node name="NoteKeeper" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ItemDetailPage.xaml" expanded="True">
+                  <Node name="ItemDetailPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NoteKeeper.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D3531A45-BB30-4FB0-8F3A-6F323089B44F" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -9,6 +9,16 @@ namespace NoteKeeper.ViewModels
         public Note Note { get; set; }
         public IList<String> CourseList { get; set; }
 
+        public String NoteHeading
+        {
+            get { return Note.Heading; }
+            set
+            {
+                Note.Heading = value;
+                OnPropertyChanged();
+            }
+        }
+
         public ItemDetailViewModel(Item item = null)
         {
             Title = item?.Text;

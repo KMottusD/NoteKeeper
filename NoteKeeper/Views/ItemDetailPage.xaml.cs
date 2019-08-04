@@ -31,7 +31,11 @@ namespace NoteKeeper.Views
 
         public void Cancel_Clicked(object sender, EventArgs eventArgs)
         {
-            DisplayAlert("Cancel option", "Are you sure you want to cancel?", "Yes", "NO");
+            viewModel.NoteHeading = "XXXXXXX";
+            DisplayAlert(
+                "Cancel option",
+                "Heading value is " + viewModel.Note.Heading,
+                "Yes", "NO");
         }
 
         public void Save_Clicked(object sender, EventArgs eventArgs)
