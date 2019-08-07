@@ -31,6 +31,7 @@ namespace NoteKeeper.Views
 
         public void Cancel_Clicked(object sender, EventArgs eventArgs)
         {
+            Navigation.PopModalAsync();
             viewModel.NoteHeading = "XXXXXXX";
             DisplayAlert(
                 "Cancel option",
@@ -40,6 +41,7 @@ namespace NoteKeeper.Views
 
         public void Save_Clicked(object sender, EventArgs eventArgs)
         {
+            Navigation.PopModalAsync();
             DisplayAlert("Save option", "Save was selected", "Save", "Cancel");
         }
     }
