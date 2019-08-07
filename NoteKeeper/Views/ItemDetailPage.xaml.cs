@@ -41,8 +41,10 @@ namespace NoteKeeper.Views
 
         public void Save_Clicked(object sender, EventArgs eventArgs)
         {
+            //DisplayAlert("Save option", "Save was selected", "Save", "Cancel");
+            MessagingCenter.Send(this, "SaveNote", viewModel.Note);
             Navigation.PopModalAsync();
-            DisplayAlert("Save option", "Save was selected", "Save", "Cancel");
+            
         }
     }
 }
