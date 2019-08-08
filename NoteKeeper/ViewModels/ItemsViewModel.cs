@@ -17,7 +17,7 @@ namespace NoteKeeper.ViewModels
 
         public ItemsViewModel()
         {
-            //Title = "Browse";
+            Title = "Browse";
             Notes = new ObservableCollection<Note>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 
@@ -32,14 +32,13 @@ namespace NoteKeeper.ViewModels
         {
             if (IsBusy)
                 return;
-
             IsBusy = true;
 
             try
             {
                 Notes.Clear();
-                var items = await DataStore.GetItemsAsync(true);
-                foreach (var note in Notes)
+                var notes = await PluralsightDataStore.GetNotesAsync();
+                foreach (var note in notes)
                 {
                     Notes.Add(note);
                 }
