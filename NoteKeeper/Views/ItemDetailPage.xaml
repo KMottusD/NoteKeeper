@@ -12,7 +12,7 @@
                     FontSize="Medium" >
             </Picker>
         
-        <Entry Text="{Binding NoteHeading}" 
+        <Entry Text="{Binding Note.Heading}" 
                x:Name="NoteHeading" 
                Placeholder="Note heading" 
                FontSize="Medium" />

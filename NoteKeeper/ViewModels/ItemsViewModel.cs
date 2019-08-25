@@ -20,13 +20,21 @@ namespace NoteKeeper.ViewModels
             Title = "Browse";
             Notes = new ObservableCollection<Note>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
+<<<<<<< HEAD
+=======
+
+            MessagingCenter.Subscribe<ItemDetailPage, Note>(this, "SaveNote", async (sender, note) => 
+            {
+                Notes.Add(note);
+                await PluralsightDataStore.AddNoteAsync(note);
+            });
+>>>>>>> 4fac0aa61d42ae71016e4e6269333b8c5a1ef0fb
         }
 
         async Task ExecuteLoadItemsCommand()
         {
             if (IsBusy)
                 return;
-
             IsBusy = true;
 
             try

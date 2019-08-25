@@ -66,3 +66,13 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/xamarin_logo@2x.png
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/xamarin_logo@3x.png
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/optimized/
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\NoteKeeper.iOS.csprojAssemblyReference.cache
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\NoteKeeper.iOS.csproj.CoreCompileInputs.cache
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\NoteKeeper.iOS.exe
+C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper.iOS\obj\iPhoneSimulator\Debug\NoteKeeper.iOS.pdb

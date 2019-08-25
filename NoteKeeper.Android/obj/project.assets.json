@@ -2001,32 +2001,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/karlmac/.nuget/packages/": {}
+    "C:\\Users\\emttkar\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
+      "projectUniqueName": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\NoteKeeper.Android.csproj",
       "projectName": "NoteKeeper.Android",
-      "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
-      "packagesPath": "/Users/karlmac/.nuget/packages/",
-      "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/",
+      "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\NoteKeeper.Android.csproj",
+      "packagesPath": "C:\\Users\\emttkar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/karlmac/.config/NuGet/NuGet.Config"
+        "C:\\Users\\emttkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://arm.rnd.ki.sw.ericsson.se/artifactory/api/nuget/tptd-nuget-virtual": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
-              "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
+            "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj": {
+              "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj"
             }
           }
         }
