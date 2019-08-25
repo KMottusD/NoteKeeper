@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\NoteKeeper.Android.csproj": {}
+    "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\NoteKeeper.Android.csproj": {
+    "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\NoteKeeper.Android.csproj",
+        "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
         "projectName": "NoteKeeper.Android",
-        "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\NoteKeeper.Android.csproj",
-        "packagesPath": "C:\\Users\\emttkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.Android\\obj\\",
+        "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
+        "packagesPath": "/Users/karlmac/.nuget/packages/",
+        "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\emttkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/karlmac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://arm.rnd.ki.sw.ericsson.se/artifactory/api/nuget/tptd-nuget-virtual": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj": {
-                "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj"
+              "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+                "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
               }
             }
           }
@@ -82,30 +76,26 @@
         }
       }
     },
-    "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj": {
+    "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj",
+        "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
         "projectName": "NoteKeeper",
-        "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj",
-        "packagesPath": "C:\\Users\\emttkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\obj\\",
+        "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
+        "packagesPath": "/Users/karlmac/.nuget/packages/",
+        "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\emttkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/karlmac/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://arm.rnd.ki.sw.ericsson.se/artifactory/api/nuget/tptd-nuget-virtual": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

@@ -22,15 +22,9 @@ namespace NoteKeeper.ViewModels
 
         public ItemDetailViewModel(Note note = null)
         {
-<<<<<<< HEAD
             Title = "Edit Note";
             InitializeCourselist();
             Note = Note ?? new Note();
-=======
-            Title = "Edit note";
-            InitializeCourselist();
-            Note = note ?? new Note();
->>>>>>> 4fac0aa61d42ae71016e4e6269333b8c5a1ef0fb
         }
 
         async void InitializeCourselist()

@@ -8,6 +8,7 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Numerics.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Runtime.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Xml.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Xml.Linq.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Common.dll
@@ -55,6 +56,7 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Drawing.Common.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/Debug/android/assets/netstandard.dll

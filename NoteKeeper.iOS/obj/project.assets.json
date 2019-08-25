@@ -1006,39 +1006,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emttkar\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/karlmac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.iOS\\NoteKeeper.iOS.csproj",
+      "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
       "projectName": "NoteKeeper.iOS",
-      "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.iOS\\NoteKeeper.iOS.csproj",
-      "packagesPath": "C:\\Users\\emttkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper.iOS\\obj\\",
+      "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
+      "packagesPath": "/Users/karlmac/.nuget/packages/",
+      "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\emttkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/karlmac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://arm.rnd.ki.sw.ericsson.se/artifactory/api/nuget/tptd-nuget-virtual": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj": {
-              "projectPath": "C:\\Users\\emttkar\\Documents\\Visual Studio 2019\\IsiklikudProjektid\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj"
+            "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+              "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
             }
           }
         }
