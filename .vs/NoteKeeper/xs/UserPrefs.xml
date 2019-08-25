@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Views/ItemDetailPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/ViewModels/ItemDetailViewModel.cs">
     <Files>
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" Line="5" Column="51" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="34" Column="76" />
-      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" />
-      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="18" Column="94" />
       <File FileName="NoteKeeper/Services/IPluralsightDataStore.cs" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="30" Column="10" />
+      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" />
+      <File FileName="NoteKeeper/Views/ItemsPage.xaml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,11 +16,12 @@
             <Node name="NoteKeeper" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="ItemDetailViewModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="ItemDetailPage.xaml" expanded="True">
-                  <Node name="ItemDetailPage.xaml.cs" selected="True" />
-                </Node>
+                <Node name="ItemDetailPage.xaml" expanded="True" />
+                <Node name="ItemsPage.xaml" expanded="True" />
               </Node>
             </Node>
           </Node>

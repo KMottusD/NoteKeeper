@@ -19,16 +19,11 @@ namespace NoteKeeper.ViewModels
             }
         }
 
-        public ItemDetailViewModel(Item item = null)
+        public ItemDetailViewModel(Note note = null)
         {
-            Title = item?.Text;
+            Title = "Edit Note";
             InitializeCourselist();
-            Note = new Note
-            {
-                Heading = "Test note",
-                Text = "Text for note in ViewModel",
-                Course = CourseList[0]
-            };
+            Note = Note ?? new Note();
         }
 
         async void InitializeCourselist()
