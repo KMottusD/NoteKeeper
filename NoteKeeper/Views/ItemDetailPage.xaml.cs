@@ -9,8 +9,6 @@ using NoteKeeper.Services;
 
 namespace NoteKeeper.Views
 {
-
-    [DesignTimeVisible(false)]
     public partial class ItemDetailPage : ContentPage
     {
         ItemDetailViewModel viewModel;
@@ -25,6 +23,7 @@ namespace NoteKeeper.Views
         public ItemDetailPage()
         {
             InitializeComponent();
+
             viewModel = new ItemDetailViewModel();
             BindingContext = viewModel;
         }

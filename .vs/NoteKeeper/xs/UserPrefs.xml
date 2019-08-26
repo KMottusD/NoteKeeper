@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.mypixelpie9_0" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Views/ItemDetailPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/ViewModels/ItemDetailViewModel.cs">
     <Files>
-      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="39" Column="30" />
-      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="43" Column="24" />
-      <File FileName="NoteKeeper/Views/ItemsPage.xaml" Line="7" Column="282" />
-      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="36" Column="110" />
-      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="27" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="31" Column="1" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="20" Column="42" />
+      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="42" Column="63" />
+      <File FileName="NoteKeeper/Views/ItemsPage.xaml" Line="7" Column="305" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" Line="19" Column="37" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="24" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,14 +17,17 @@
             <Node name="NoteKeeper" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="ItemDetailPage.xaml" expanded="True">
-                  <Node name="ItemDetailPage.xaml.cs" selected="True" />
-                </Node>
-                <Node name="ItemsPage.xaml" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="ItemDetailViewModel.cs" selected="True" />
               </Node>
+              <Node name="Views" expanded="True">
+                <Node name="ItemDetailPage.xaml" expanded="True" />
+                <Node name="ItemsPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
+            <Node name="NoteKeeper.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -33,11 +37,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D3531A45-BB30-4FB0-8F3A-6F323089B44F" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/Views/ItemsPage.xaml.cs" relfile="NoteKeeper/Views/ItemsPage.xaml.cs" line="44" column="1" />
-      <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/Views/ItemsPage.xaml.cs" relfile="NoteKeeper/Views/ItemsPage.xaml.cs" line="32" column="1" />
-      <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/Views/ItemsPage.xaml.cs" relfile="NoteKeeper/Views/ItemsPage.xaml.cs" line="36" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -33,10 +33,10 @@ namespace NoteKeeper.Views
             if (note == null)
                 return;
 
-            await Navigation.PushModalAsync(new NavigationPage(new ItemDetailPage(new ItemDetailViewModel(note))));
+            await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(note)));
 
             // Manually deselect item.
-            ItemsListView.SelectedItem = null;
+           ItemsListView.SelectedItem = null;
         }
 
         async void AddItem_Clicked(object sender, EventArgs e)

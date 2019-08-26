@@ -36,22 +36,22 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csprojAssemblyReference.cache
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\bin\Debug\netstandard2.0\NoteKeeper.deps.json
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\bin\Debug\netstandard2.0\NoteKeeper.dll
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\bin\Debug\netstandard2.0\ref\NoteKeeper.dll
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\bin\Debug\netstandard2.0\NoteKeeper.pdb
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\NoteKeeper.csproj.CoreCompileInputs.cache
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\NoteKeeper.AssemblyInfoInputs.cache
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\NoteKeeper.AssemblyInfo.cs
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\NoteKeeper.dll
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\ref\NoteKeeper.dll
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\NoteKeeper.pdb
-C:\Users\emttkar\Documents\Visual Studio 2019\IsiklikudProjektid\NoteKeeper\NoteKeeper\obj\Debug\netstandard2.0\NoteKeeper.csprojAssemblyReference.cache
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.deps.json
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/ref/NoteKeeper.dll
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.pdb
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csproj.CoreCompileInputs.cache
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfoInputs.cache
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfo.cs
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
+C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csprojAssemblyReference.cache

@@ -24,7 +24,7 @@ namespace NoteKeeper.ViewModels
         {
             Title = "Edit Note";
             InitializeCourselist();
-            Note = Note ?? new Note();
+            Note = note ?? new Note();
         }
 
         async void InitializeCourselist()
