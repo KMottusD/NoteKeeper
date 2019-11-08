@@ -23,7 +23,6 @@ namespace NoteKeeper.Views
         public ItemDetailPage()
         {
             InitializeComponent();
-
             viewModel = new ItemDetailViewModel();
             BindingContext = viewModel;
         }
