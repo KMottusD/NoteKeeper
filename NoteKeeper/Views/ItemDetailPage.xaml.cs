@@ -28,22 +28,23 @@ namespace NoteKeeper.Views
             BindingContext = viewModel;
         }
 
-        public void Cancel_Clicked(object sender, EventArgs eventArgs)
+        async void Cancel_Clicked(object sender, EventArgs eventArgs)
         {
-            Navigation.PopModalAsync();
-            viewModel.NoteHeading = "XXXXXXX";
-            DisplayAlert(
+            var action = await DisplayAlert(
                 "Cancel option",
-                "Heading value is " + viewModel.Note.Heading,
+                "Do you want to Quit?",
                 "Yes", "NO");
+            if (action)
+            {
+                await Navigation.PopToRootAsync();
+            }
         }
 
-        public void Save_Clicked(object sender, EventArgs eventArgs)
+        async void Save_Clicked(object sender, EventArgs eventArgs)
         {
-            //DisplayAlert("Save option", "Save was selected", "Save", "Cancel");
+            //viewModel.NoteHeading = ;
             MessagingCenter.Send(this, "SaveNote", viewModel.Note);
-            Navigation.PopModalAsync();
-            
+            await Navigation.PopToRootAsync();
         }
     }
 }
