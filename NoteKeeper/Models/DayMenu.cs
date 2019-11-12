@@ -4,8 +4,8 @@ namespace NoteKeeper.Models
     public class DayMenu
 
     {
-        string MenuName { get; set; }
-        int MenuID { get; set; }
-
+        string menuName { get; set; }
+        int menuID { get; set; }
+        Meal[] meals { get; set; }
     }
 }

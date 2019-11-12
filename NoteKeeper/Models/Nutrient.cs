@@ -3,8 +3,9 @@ namespace NoteKeeper.Models
 {
     public class Nutrient
     {
-        string Name { get; set; }
-        int Id { get; set; }
-
+        string nutrientName { get; set; }
+        int nutrientId { get; set; }
+        double nutrientValue { get; set; }
+        string nutrientDescription { get; set; }
     }
 }

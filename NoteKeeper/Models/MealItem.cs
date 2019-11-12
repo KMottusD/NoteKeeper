@@ -4,8 +4,8 @@ namespace NoteKeeper.Models
     public class MealItem
     {
 
-        string MealItemName { get; set; }
-        int Id { get; set; }
-        Nutrient[] NutrientsList { get; set; }
+        string mealItemName { get; set; }
+        int mealItemId { get; set; }
+        Nutrient[] nutrientsList { get; set; }
     }
 }
