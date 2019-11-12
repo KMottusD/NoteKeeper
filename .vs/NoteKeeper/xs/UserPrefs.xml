@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pixel_3_pie_9_0_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Views/ItemDetailPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Models/Nutrient.cs">
     <Files>
       <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="27" Column="1" />
       <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" />
@@ -8,20 +8,24 @@
       <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="42" Column="16" />
       <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" />
       <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" />
-      <File FileName="NoteKeeper/NoteKeeper.csproj" />
+      <File FileName="NoteKeeper/NoteKeeper.csproj" Line="1" Column="1" />
       <File FileName="NoteKeeper/Views/MainPage.xaml.cs" />
       <File FileName="NoteKeeper.iOS/Main.cs" />
+      <File FileName="NoteKeeper/Models/EmptyClass.cs" Line="12" Column="1" />
+      <File FileName="NoteKeeper/Models/Item.cs" Line="9" Column="48" />
+      <File FileName="NoteKeeper/Models/MealItem.cs" Line="8" Column="27" />
+      <File FileName="NoteKeeper/Models/Nutrient.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NoteKeeper" expanded="True">
             <Node name="NoteKeeper" expanded="True">
-              <Node name="ViewModels" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Nutrient.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="ItemDetailPage.xaml" expanded="True">
-                  <Node name="ItemDetailPage.xaml.cs" selected="True" />
-                </Node>
+                <Node name="ItemDetailPage.xaml" expanded="True" />
               </Node>
             </Node>
             <Node name="NoteKeeper.iOS" expanded="True" />
