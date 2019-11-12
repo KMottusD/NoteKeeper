@@ -1,18 +1,20 @@
 ﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pixel_3_pie_9_0_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Models/Meal.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Models/Item.cs">
     <Files>
-      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="27" Column="1" />
-      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="15" Column="27" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
       <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="49" Column="2" />
       <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="42" Column="16" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" />
-      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="1" Column="1" />
       <File FileName="NoteKeeper/NoteKeeper.csproj" Line="1" Column="1" />
       <File FileName="NoteKeeper/Models/EmptyClass.cs" Line="11" Column="2" />
-      <File FileName="NoteKeeper/Models/Item.cs" Line="8" Column="38" />
+      <File FileName="NoteKeeper/Models/Item.cs" Line="10" Column="39" />
       <File FileName="NoteKeeper/Models/MealItem.cs" Line="12" Column="1" />
-      <File FileName="NoteKeeper/Models/Nutrient.cs" Line="7" Column="21" />
+      <File FileName="NoteKeeper/Models/Nutrient.cs" Line="8" Column="43" />
+      <File FileName="NoteKeeper/Models/Note.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Services/MockDataStore.cs" Line="9" Column="45" />
+      <File FileName="NoteKeeper/Models/Item.cs" Line="6" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,10 +22,13 @@
           <Node name="NoteKeeper" expanded="True">
             <Node name="NoteKeeper" expanded="True">
               <Node name="Models" expanded="True">
-                <Node name="Meal.cs" selected="True" />
+                <Node name="Item.cs" selected="True" />
               </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="ItemDetailPage.xaml" expanded="True" />
+                <Node name="ItemsPage.xaml" expanded="True" />
                 <Node name="MainPage.xaml" expanded="True" />
               </Node>
             </Node>
