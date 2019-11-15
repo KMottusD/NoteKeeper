@@ -2001,20 +2001,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/karlmottus/.nuget/packages/": {}
+    "/Users/karlmac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
+      "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
       "projectName": "NoteKeeper.Android",
-      "projectPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
-      "packagesPath": "/Users/karlmottus/.nuget/packages/",
-      "outputPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.Android/obj/",
+      "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
+      "packagesPath": "/Users/karlmac/.nuget/packages/",
+      "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/karlmottus/.config/NuGet/NuGet.Config"
+        "/Users/karlmac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2025,8 +2025,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
-              "projectPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
+            "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+              "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
             }
           }
         }

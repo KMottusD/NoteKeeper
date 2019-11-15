@@ -41,7 +41,15 @@ namespace NoteKeeper.Views
 
         async void AddItem_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
+            //await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
+             Note note = new Note();
+            if (note == null)
+                return;
+
+            await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(note)));
+
+            // Manually deselect item.
+            ItemsListView.SelectedItem = null;
         }
 
         protected override void OnAppearing()
