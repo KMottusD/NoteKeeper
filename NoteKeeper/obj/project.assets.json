@@ -556,23 +556,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/karlmac/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/karlmottus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
+      "projectUniqueName": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
       "projectName": "NoteKeeper",
-      "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
-      "packagesPath": "/Users/karlmac/.nuget/packages/",
-      "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/",
+      "projectPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
+      "packagesPath": "/Users/karlmottus/.nuget/packages/",
+      "outputPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/karlmac/.config/NuGet/NuGet.Config"
+        "/Users/karlmottus/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

@@ -1006,20 +1006,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/karlmac/.nuget/packages/": {}
+    "/Users/karlmottus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
+      "projectUniqueName": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
       "projectName": "NoteKeeper.iOS",
-      "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
-      "packagesPath": "/Users/karlmac/.nuget/packages/",
-      "outputPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/",
+      "projectPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
+      "packagesPath": "/Users/karlmottus/.nuget/packages/",
+      "outputPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/karlmac/.config/NuGet/NuGet.Config"
+        "/Users/karlmottus/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1030,8 +1030,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
-              "projectPath": "/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
+            "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+              "projectPath": "/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
             }
           }
         }

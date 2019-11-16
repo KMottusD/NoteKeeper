@@ -40,21 +40,6 @@ namespace NoteKeeper.Services
 
         }
 
-        public MockPluralsightDataStore()
-        {
-            //var xamformsintro = new Course { Id = "xamformsintro", Name = "Introduction to Xamarin.Forms" };
-            //var androidkotlin = new Course { Id = "androidkotlin", Name = "Android Apps with Kotlin: First App" };
-            //var xamarincross = new Course { Id = "xamarincross", Name = "Cross-platform with Xamarin" };
-            //mockCourses = new List<Course>
-            //{
-            //    xamformsintro,
-            //    androidkotlin,
-            //    xamarincross,
-            //};
-
-
-        }
-
         public async Task<String> AddNoteAsync(Note courseNote)
         {
             lock (this)
@@ -81,16 +66,7 @@ namespace NoteKeeper.Services
 
         public async Task<Note> GetNoteAsync(string id)
         {
-            //Note testNote = null;
-            //foreach(var loopNote in mockNotes)
-            //{
-            //    if (loopNote.Id == id)
-            //    {
-            //        testNote = loopNote;
-            //        break;
-            //    }
-            //}
-            //int i = 0;
+            
             var note = mockNotes.FirstOrDefault(courseNote => courseNote.Id == id);
 
             // Make a copy of the note to simulate reading from an external datastore
