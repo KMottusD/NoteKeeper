@@ -12,6 +12,7 @@ namespace NoteKeeper.Views
     public partial class ItemDetailPage : ContentPage
     {
         ItemDetailViewModel viewModel;
+        MockPluralsightDataStore storeModel;
 
         public ItemDetailPage(ItemDetailViewModel viewModel)
         {
@@ -44,6 +45,7 @@ namespace NoteKeeper.Views
             //viewModel.NoteHeading = ;
             MessagingCenter.Send(this, "SaveNote", viewModel.Note);
             await Navigation.PopToRootAsync();
+            //await storeModel.UpdateNoteAsync(viewModel.Note);
         }
     }
 }

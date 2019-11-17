@@ -18,7 +18,9 @@ namespace NoteKeeper.Services
             {
                 "Introduction to Xamarin.Forms",
                 "Android Apps with Kotlin: First App",
-                "Managing Android App Data with SQLite"
+                "Managing Android App Data with SQLite",
+                "Bananas With Melons",
+                "Smoothies just as you liked it"
             };
 
             mockNotes = new List<Note>
@@ -26,17 +28,16 @@ namespace NoteKeeper.Services
                 new Note { Id="0", Heading="UI Code",
                     Text="Xamarin.Forms allows UI code to be shared", Course=mockCourses[0] },
                 new Note { Id="1", Heading="Sharing Code",
-                    Text="With Xamarin.Forms code can be shared across iOS, Android, and UWP", Course=mockCourses[0] },
+                    Text="With Xamarin.Forms code can be shared across iOS, Android, and UWP", Course=mockCourses[4] },
                 new Note { Id="2", Heading="Cross-platform Database",
                     Text="SQLite is a great storage solution for both Android and iOS", Course=mockCourses[2] },
                 new Note { Id="3", Heading="Using Kotlin",
                     Text="For those prefering Java-like languages, Kotlin is a great choice for Android", Course=mockCourses[1] },
                 new Note { Id="4", Heading="Data Binding",
-                    Text="Data binding simplifies connecting app data to the UI", Course=mockCourses[0] },
+                    Text="Data binding simplifies connecting app data to the UI", Course=mockCourses[3] },
             };
 
             nextNoteId = mockNotes.Count;
-
 
         }
 
