@@ -60,6 +60,21 @@ C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/Note
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.csproj.CoreCompileInputs.cache
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.exe
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.pdb
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/actool/_PartialAppManifest.items
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/actool/_BundleResourceWithLogicalName.items
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/coremlc/_PartialAppManifest.items
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_about.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_about@2x.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_about@3x.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_feed.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_feed@2x.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_feed@3x.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/xamarin_logo.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/xamarin_logo@2x.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/xamarin_logo@3x.png
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/NoteKeeper.iOS.exe
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/NoteKeeper.iOS.pdb
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
@@ -107,26 +122,6 @@ C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/Note
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/NoteKeeper.dll
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/bin/iPhoneSimulator/Debug/NoteKeeper.pdb
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.csprojAssemblyReference.cache
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.csproj.CopyComplete
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.exe
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.pdb
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/actool/_PartialAppManifest.items
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/actool/_BundleResourceWithLogicalName.items
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/coremlc/_PartialAppManifest.items
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/coremlc/_BundleResourceWithLogicalName.items
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_about.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_about@2x.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_about@3x.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_feed.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_feed@2x.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/tab_feed@3x.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/xamarin_logo.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/xamarin_logo@2x.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/xamarin_logo@3x.png
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/ibtool/_BundleResourceWithLogicalName.items
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_PartialAppManifest.items
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_BundleResourceWithLogicalName.items
@@ -142,3 +137,8 @@ C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/Note
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/optimized/xamarin_logo@2x.png
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/optimized/xamarin_logo@3x.png
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/optimized/
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.csprojAssemblyReference.cache
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.csproj.CopyComplete
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.exe
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper.iOS/obj/iPhoneSimulator/Debug/NoteKeeper.iOS.pdb

@@ -53,20 +53,21 @@ C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/Note
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csprojAssemblyReference.cache
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.deps.json
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/ref/NoteKeeper.dll
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.pdb
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csprojAssemblyReference.cache
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage (copy).xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage2.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfoInputs.cache
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfo.cs
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.deps.json
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/ref/NoteKeeper.dll
+/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.pdb
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll

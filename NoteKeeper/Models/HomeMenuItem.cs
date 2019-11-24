@@ -7,6 +7,7 @@ namespace NoteKeeper.Models
     public enum MenuItemType
     {
         Browse,
+        Browse2,
         About
     }
     public class HomeMenuItem

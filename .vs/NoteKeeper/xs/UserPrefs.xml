@@ -1,34 +1,32 @@
-﻿<Properties StartupConfiguration="{FC1BF90B-2A31-4F42-970B-3B642631DE26}|Default">
+﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pixel_3_pie_9_0_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/ViewModels/BaseViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Views/MenuPage.xaml.cs">
     <Files>
-      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="17" Column="16" />
-      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" />
-      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" />
-      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" />
-      <File FileName="NoteKeeper/NoteKeeper.csproj" />
-      <File FileName="NoteKeeper/Models/Item.cs" />
-      <File FileName="NoteKeeper/Models/MealItem.cs" />
-      <File FileName="NoteKeeper/Models/Nutrient.cs" />
-      <File FileName="NoteKeeper/Models/Note.cs" />
-      <File FileName="NoteKeeper/Services/MockDataStore.cs" />
-      <File FileName="NoteKeeper/Services/MockPluralsightDataStore.cs" />
+      <File FileName="NoteKeeper/Models/Nutrient.cs" IsPinned="True" />
+      <File FileName="NoteKeeper/Services/MockDataStore.cs" Line="18" Column="73" IsPinned="True" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="15" Column="34" />
+      <File FileName="NoteKeeper/ViewModels/AboutViewModel.cs" Line="8" Column="18" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel2.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="15" Column="34" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Views/MainPage.xaml.cs" Line="17" Column="46" />
+      <File FileName="NoteKeeper/Views/MenuPage.xaml.cs" Line="23" Column="78" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NoteKeeper" expanded="True">
             <Node name="NoteKeeper" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="BaseViewModel.cs" selected="True" />
-              </Node>
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="ItemDetailPage.xaml" expanded="True" />
-                <Node name="ItemsPage.xaml" expanded="True" />
+                <Node name="ItemsPage2.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="MenuPage.xaml" expanded="True">
+                  <Node name="MenuPage.xaml.cs" selected="True" />
+                </Node>
               </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
             <Node name="NoteKeeper.iOS" expanded="True" />
           </Node>
@@ -40,10 +38,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE9A473E-4843-464C-8B5D-7D65CCC4CF39" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/Services/MockPluralsightDataStore.cs" relfile="NoteKeeper/Services/MockPluralsightDataStore.cs" line="56" column="1" />
-      <Breakpoint file="/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/Views/ItemDetailPage.xaml.cs" relfile="NoteKeeper/Views/ItemDetailPage.xaml.cs" line="48" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
