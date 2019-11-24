@@ -1,21 +1,19 @@
-﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
+﻿<Properties StartupConfiguration="{FC1BF90B-2A31-4F42-970B-3B642631DE26}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pixel_3_pie_9_0_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper.iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/ViewModels/BaseViewModel.cs">
     <Files>
       <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="17" Column="16" />
-      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="15" Column="34" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="48" Column="1" />
-      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="36" Column="84" />
-      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="27" Column="60" />
-      <File FileName="NoteKeeper/NoteKeeper.csproj" Line="1" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" />
+      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" />
+      <File FileName="NoteKeeper/NoteKeeper.csproj" />
       <File FileName="NoteKeeper/Models/Item.cs" />
       <File FileName="NoteKeeper/Models/MealItem.cs" />
       <File FileName="NoteKeeper/Models/Nutrient.cs" />
-      <File FileName="NoteKeeper/Models/Note.cs" Line="7" Column="23" />
-      <File FileName="NoteKeeper/Services/MockDataStore.cs" Line="11" Column="16" />
-      <File FileName="NoteKeeper/Services/MockPluralsightDataStore.cs" Line="55" Column="37" />
-      <File FileName="NoteKeeper.iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="NoteKeeper.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="NoteKeeper/Models/Note.cs" />
+      <File FileName="NoteKeeper/Services/MockDataStore.cs" />
+      <File FileName="NoteKeeper/Services/MockPluralsightDataStore.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,15 +22,15 @@
             <Node name="NoteKeeper" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="BaseViewModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="ItemDetailPage.xaml" expanded="True" />
                 <Node name="ItemsPage.xaml" expanded="True" />
               </Node>
             </Node>
-            <Node name="NoteKeeper.iOS" expanded="True">
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="NoteKeeper.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>

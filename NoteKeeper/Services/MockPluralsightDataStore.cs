@@ -20,7 +20,9 @@ namespace NoteKeeper.Services
                 "Android Apps with Kotlin: First App",
                 "Managing Android App Data with SQLite",
                 "Bananas With Melons",
-                "Smoothies just as you liked it"
+                "Smoothies just as you liked it",
+                "Tester just to write that information in!",
+                "7th test",
             };
 
             mockNotes = new List<Note>
@@ -35,6 +37,10 @@ namespace NoteKeeper.Services
                     Text="For those prefering Java-like languages, Kotlin is a great choice for Android", Course=mockCourses[1] },
                 new Note { Id="4", Heading="Data Binding",
                     Text="Data binding simplifies connecting app data to the UI", Course=mockCourses[3] },
+                new Note { Id="5", Heading="Tester for Writing",
+                    Text="Data Is Binding yep", Course=mockCourses[5] },
+                new Note { Id="6", Heading="7th test for Writing",
+                    Text="Data Is Binding yep 7th time", Course=mockCourses[6] },
             };
 
             nextNoteId = mockNotes.Count;
