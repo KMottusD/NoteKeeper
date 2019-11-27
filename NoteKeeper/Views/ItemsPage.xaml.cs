@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
-
 using NoteKeeper.Models;
 using NoteKeeper.Views;
 using NoteKeeper.ViewModels;
@@ -41,13 +35,11 @@ namespace NoteKeeper.Views
 
         async void AddItem_Clicked(object sender, EventArgs e)
         {
-            //await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
              Note note = new Note();
             if (note == null)
                 return;
 
             await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(note)));
-
             // Manually deselect item.
             ItemsListView.SelectedItem = null;
         }
@@ -56,7 +48,7 @@ namespace NoteKeeper.Views
         {
             base.OnAppearing();
 
-            if (viewModel.Notes.Count == 0)
+            //if (viewModel.Notes.Count == 0)
                 viewModel.LoadItemsCommand.Execute(null);
         }
     }

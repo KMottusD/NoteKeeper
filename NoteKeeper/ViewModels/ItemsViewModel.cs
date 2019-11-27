@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Threading.Tasks;
-
+using System.Collections.Generic;
 using Xamarin.Forms;
 
 using NoteKeeper.Models;
@@ -14,6 +14,7 @@ namespace NoteKeeper.ViewModels
     {
         public ObservableCollection<Note> Notes { get; set; }
         public Command LoadItemsCommand { get; set; }
+        public List<string> NoteIds { get; set; }
 
         public ItemsViewModel()
         {
@@ -23,8 +24,16 @@ namespace NoteKeeper.ViewModels
 
             MessagingCenter.Subscribe<ItemDetailPage, Note>(this, "SaveNote", async (sender, note) => 
             {
-                Notes.Add(note);
-                await PluralsightDataStore.AddNoteAsync(note);
+
+            if (note.Id > 0)
+                {
+                    await PluralsightDataStore.UpdateNoteAsync(note);
+                }
+                else
+                {
+                    Notes.Add(note);
+                    await PluralsightDataStore.AddNoteAsync(note);
+                }
             });
         }
 

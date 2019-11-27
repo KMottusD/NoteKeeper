@@ -12,14 +12,14 @@ namespace NoteKeeper.Views
     public partial class ItemDetailPage : ContentPage
     {
         ItemDetailViewModel viewModel;
-        MockPluralsightDataStore storeModel;
+        ItemsViewModel model = new ItemsViewModel();
 
         public ItemDetailPage(ItemDetailViewModel viewModel)
         {
             InitializeComponent();
             this.viewModel = viewModel;
             BindingContext = this.viewModel;
-        }
+                }
 
         public ItemDetailPage()
         {
@@ -42,10 +42,9 @@ namespace NoteKeeper.Views
 
         async void Save_Clicked(object sender, EventArgs eventArgs)
         {
-            //viewModel.NoteHeading = ;
             MessagingCenter.Send(this, "SaveNote", viewModel.Note);
             await Navigation.PopToRootAsync();
-            //await storeModel.UpdateNoteAsync(viewModel.Note);
+            
         }
     }
 }

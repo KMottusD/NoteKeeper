@@ -17,24 +17,6 @@
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
 /Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.deps.json
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/ref/NoteKeeper.dll
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.pdb
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfoInputs.cache
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfo.cs
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/XamlC.stamp
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
-/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.csprojAssemblyReference.cache
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.deps.json
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
 C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/ref/NoteKeeper.dll
@@ -72,3 +54,20 @@ C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/Note
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.deps.json
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.dll
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/ref/NoteKeeper.dll
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/bin/Debug/netstandard2.0/NoteKeeper.pdb
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfoInputs.cache
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfo.cs
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.dll
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/ref/NoteKeeper.dll
+/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.pdb
