@@ -11,6 +11,12 @@
                     Title="Note course" 
                     FontSize="Medium" >
             </Picker>
+            <Picker ItemsSource="{Binding CourseList}"
+                    SelectedItem="{Binding Note.Course}"
+                    x:Name="NoteCourse2" 
+                    Title="Note course2" 
+                    FontSize="Medium" >
+            </Picker>
         
         <Entry Text="{Binding Note.Heading}" 
                x:Name="NoteHeading" 

@@ -9,6 +9,8 @@ namespace NoteKeeper.Services
     public class MockPluralsightDataStore : IPluralsightDataStore
     {
         private static readonly List<String> mockCourses;
+        private static readonly List<String> mealTemplates;
+        private static readonly List<Meal> mealDemos;
         private static readonly List<Note> mockNotes;
         private static int nextNoteId;
 
@@ -23,6 +25,33 @@ namespace NoteKeeper.Services
                 "Smoothies just as you liked it",
                 "Tester just to write that information in!",
                 "7th test",
+            };
+
+            mealTemplates = new List<string>
+            {
+                "Morning 1",
+                "Snack 1",
+                "Lunch 1",
+                "Snack 1.2",
+                "Dinner",
+                "Snack 1.3",
+                "Snack 1.4",
+            };
+
+            mealDemos = new List<Meal>
+            {
+                new Meal { MealId=1,
+                    MealName="Muna & Peekon", MealDescription="Praetud muna, praetud peekoninga...nämm nämm" },
+                new Meal { MealId=2,
+                    MealName="Prae kartul", MealDescription="Praetud kartul, Kotletiga...nämm nämm" },
+                new Meal { MealId=3,
+                    MealName="Vahepala", MealDescription="Banaan, virsik, õun" },
+                new Meal { MealId=4,
+                    MealName="Lõuna", MealDescription="Mushroom soup" },
+                new Meal { MealId=5,
+                    MealName="Vahepala", MealDescription="Valgujook karamelli njam" },
+                new Meal { MealId=6,
+                    MealName="Õhtusöök", MealDescription="Stake, kartuli püree ja grillitud peediga" },
             };
 
             mockNotes = new List<Note>
@@ -40,7 +69,7 @@ namespace NoteKeeper.Services
                 new Note { Id=6, Heading="Tester for Writing",
                     Text="Data Is Binding yep", Course=mockCourses[5] },
                 new Note { Id=7, Heading="7th test for Writing",
-                    Text="Data Is Binding yep 7th time", Course=mockCourses[6] },
+                    Text="Data Is Binding yep 7th time", Course=mockCourses[6] }
             };
 
             nextNoteId = mockNotes.Count + 1;
@@ -91,6 +120,11 @@ namespace NoteKeeper.Services
         }
 
         public async Task<IList<String>> GetCoursesAsync()
+        {
+            return await Task.FromResult(mockCourses);
+        }
+
+        public async Task<IList<String>> GetMealsAsync()
         {
             return await Task.FromResult(mockCourses);
         }

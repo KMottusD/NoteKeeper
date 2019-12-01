@@ -4,9 +4,9 @@ namespace NoteKeeper.Models
 {
     public class Meal
     {
-        string mealId { get; set; }
-        string mealName { get; set; }
-        string mealDescription { get; set; }
-        MealItem[] meals { get; set; }
+        public int MealId { get; set; }
+        public string MealName { get; set; }
+        public string MealDescription { get; set; }
+        //public MealItem[] Meals { get; set; }
     }
 }

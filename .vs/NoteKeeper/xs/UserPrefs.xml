@@ -1,33 +1,36 @@
 ﻿<Properties StartupConfiguration="{7AEDB6AE-9E23-4177-94B0-D19FD8CD30C2}|Default">
   <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pixel_3_pie_9_0_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Views/ItemsPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Models/MealItem.cs">
     <Files>
       <File FileName="NoteKeeper/Models/Nutrient.cs" Line="12" Column="1" IsPinned="True" />
-      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="37" Column="1" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="48" Column="1" />
-      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="27" Column="1" />
-      <File FileName="NoteKeeper/Views/MainPage.xaml.cs" Line="35" Column="31" />
-      <File FileName="NoteKeeper/Views/MenuPage.xaml.cs" Line="34" Column="1" />
-      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="45" Column="1" />
-      <File FileName="NoteKeeper/Services/MockPluralsightDataStore.cs" Line="59" Column="1" />
-      <File FileName="NoteKeeper/Services/MockDataStore.cs" Line="62" Column="59" />
-      <File FileName="NoteKeeper/Models/HomeMenuItem.cs" Line="9" Column="16" />
-      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" Line="11" Column="41" />
-      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="28" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/ItemsViewModel.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" />
+      <File FileName="NoteKeeper/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Views/MenuPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Services/MockDataStore.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="19" Column="13" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" Line="8" Column="43" />
+      <File FileName="NoteKeeper/Models/Meal.cs" Line="10" Column="22" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="34" Column="53" />
+      <File FileName="NoteKeeper/Services/IPluralsightDataStore.cs" Line="19" Column="1" />
+      <File FileName="NoteKeeper/Services/MockPluralsightDataStore.cs" Line="42" Column="154" />
+      <File FileName="NoteKeeper/Models/Note.cs" Line="1" Column="1" />
+      <File FileName="NoteKeeper/Models/MealItem.cs" Line="9" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NoteKeeper" expanded="True">
             <Node name="NoteKeeper" expanded="True">
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="MealItem.cs" selected="True" />
+              </Node>
               <Node name="Services" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="ItemDetailPage.xaml" expanded="True" />
-                <Node name="ItemsPage.xaml" expanded="True">
-                  <Node name="ItemsPage.xaml.cs" selected="True" />
-                </Node>
+                <Node name="ItemsPage.xaml" expanded="True" />
                 <Node name="MainPage.xaml" expanded="True" />
                 <Node name="MenuPage.xaml" expanded="True" />
               </Node>
@@ -44,8 +47,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/Views/ItemsPage2.xaml.cs" relfile="NoteKeeper/Views/ItemsPage2.xaml.cs" line="23" column="1" />
-      <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/Views/ItemsPage.xaml.cs" relfile="NoteKeeper/Views/ItemsPage.xaml.cs" line="38" column="1" />
-      <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/Views/ItemDetailPage.xaml.cs" relfile="NoteKeeper/Views/ItemDetailPage.xaml.cs" line="44" column="1" />
+      <Breakpoint file="/Users/karlmac/Desktop/VSProjects/NoteKeeper/NoteKeeper/ViewModels/4fus5i5j.ux6~" relfile="NoteKeeper/ViewModels/4fus5i5j.ux6~" line="38" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

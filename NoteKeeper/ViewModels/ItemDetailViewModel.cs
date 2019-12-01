@@ -9,6 +9,8 @@ namespace NoteKeeper.ViewModels
 
         public Note Note { get; set; }
         public IList<String> CourseList { get; set; }
+        public IList<String> MealList { get; set; }
+        public Meal Meal { get; set; }
 
         public String NoteHeading
         {
@@ -30,6 +32,7 @@ namespace NoteKeeper.ViewModels
         async void InitializeCourselist()
         {
             CourseList = await PluralsightDataStore.GetCoursesAsync();
+            MealList = await PluralsightDataStore.GetMealsAsync();
         }
     }
 }
