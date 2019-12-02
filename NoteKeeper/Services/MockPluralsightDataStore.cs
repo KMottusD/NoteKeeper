@@ -13,6 +13,7 @@ namespace NoteKeeper.Services
         private static readonly List<Meal> mealDemos;
         private static readonly List<Note> mockNotes;
         private static int nextNoteId;
+        private static int nextMealId;
 
         static MockPluralsightDataStore()
         {
@@ -53,6 +54,7 @@ namespace NoteKeeper.Services
                 new Meal { MealId=6,
                     MealName="Õhtusöök", MealDescription="Stake, kartuli püree ja grillitud peediga" },
             };
+            nextMealId = mealDemos.Count + 1;
 
             mockNotes = new List<Note>
             {
@@ -85,6 +87,17 @@ namespace NoteKeeper.Services
                 nextNoteId++;
             }
             return await Task.FromResult(courseNote.Id.ToString());
+        }
+
+        public async Task<String> AddMealAsync(Meal mealsItem)
+        {
+            lock (this)
+            {
+                mealsItem.MealId = nextMealId;
+                mealDemos.Add(mealsItem);
+                nextMealId++;
+            }
+            return await Task.FromResult(mealsItem.MealId.ToString());
         }
 
         public async Task<bool> UpdateNoteAsync(Note courseNote)
@@ -126,7 +139,7 @@ namespace NoteKeeper.Services
 
         public async Task<IList<String>> GetMealsAsync()
         {
-            return await Task.FromResult(mockCourses);
+            return await Task.FromResult(mealTemplates);
         }
 
         private static Note CopyNote(Note note)

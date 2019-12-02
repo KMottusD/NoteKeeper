@@ -11,7 +11,7 @@
                     Title="Note course" 
                     FontSize="Medium" >
             </Picker>
-            <Picker ItemsSource="{Binding CourseList}"
+            <Picker ItemsSource="{Binding MealList}"
                     SelectedItem="{Binding Note.Course}"
                     x:Name="NoteCourse2" 
                     Title="Note course2" 

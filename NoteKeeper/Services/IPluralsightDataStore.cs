@@ -9,6 +9,7 @@ namespace NoteKeeper.Services
     public interface IPluralsightDataStore
     {
         Task<String> AddNoteAsync(Note courseNote);
+        Task<String> AddMealAsync(Meal mealsItem);
         Task<bool> UpdateNoteAsync(Note courseNote);
         Task<Note> GetNoteAsync(String id);
         Task<IList<Note>> GetNotesAsync();

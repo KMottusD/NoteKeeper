@@ -1,9 +1,8 @@
 ﻿using System;
 namespace NoteKeeper.Models
 {
-    public class MealItem
+    public interface IMealItem
     {
-
         string MealItemName { get; set; }
         int MealItemId { get; set; }
         Nutrient[] NutrientsList { get; set; }
