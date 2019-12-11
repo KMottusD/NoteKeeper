@@ -15,6 +15,7 @@ namespace NoteKeeper.Services
         Task<Note> GetNoteAsync(String id);
         Task<IList<Note>> GetNotesAsync();
         Task<IList<String>> GetCoursesAsync();
-        Task<IList<String>> GetMealsAsync();
+        Task<IList<String>> GetMealingsAsync();
+        Task<IList<Meal>> GetMealsAsync();
     }
 }

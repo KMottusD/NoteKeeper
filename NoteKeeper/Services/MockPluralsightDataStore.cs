@@ -135,6 +135,16 @@ namespace NoteKeeper.Services
             return await Task.FromResult(returnNote);
         }
 
+        public async Task<Meal> GetMealAsync(string id)
+        {
+
+            var meal = mealDemos.FirstOrDefault(mealsItem => mealsItem.MealId.ToString() == id);
+
+            // Make a copy of the note to simulate reading from an external datastore
+            var returnMeal = CopyMeal(meal);
+            return await Task.FromResult(returnMeal);
+        }
+
         public async Task<IList<Note>> GetNotesAsync()
         {
             // Make a copy of the notes to simulate reading from an external datastore
@@ -144,12 +154,21 @@ namespace NoteKeeper.Services
             return await Task.FromResult(returnNotes);
         }
 
+        public async Task<IList<Meal>> GetMealsAsync()
+        {
+            // Make a copy of the notes to simulate reading from an external datastore
+            var returnMeals = new List<Meal>();
+            foreach (var meal in mealDemos)
+                returnMeals.Add(CopyMeal(meal));
+            return await Task.FromResult(returnMeals);
+        }
+
         public async Task<IList<String>> GetCoursesAsync()
         {
             return await Task.FromResult(mockCourses);
         }
 
-        public async Task<IList<String>> GetMealsAsync()
+        public async Task<IList<String>> GetMealingsAsync()
         {
             return await Task.FromResult(mealTemplates);
         }
@@ -158,6 +177,10 @@ namespace NoteKeeper.Services
         {
             return new Note { Id = note.Id, Heading = note.Heading, Text = note.Text, Course = note.Course };
         }
-    }
 
+        private static Meal CopyMeal(Meal meal)
+        {
+            return new Meal { MealId = meal.MealId, MealName = meal.MealName, MealDescription = meal.MealDescription };
+        }
+    }
 }

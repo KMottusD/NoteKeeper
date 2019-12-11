@@ -32,7 +32,7 @@ namespace NoteKeeper.ViewModels
         async void InitializeCourselist()
         {
             CourseList = await PluralsightDataStore.GetCoursesAsync();
-            MealList = await PluralsightDataStore.GetMealsAsync();
+            MealList = await PluralsightDataStore.GetMealingsAsync();
         }
     }
 }

@@ -13,6 +13,7 @@ namespace NoteKeeper.ViewModels
     public class ItemsViewModel : BaseViewModel
     {
         public ObservableCollection<Note> Notes { get; set; }
+        public ObservableCollection<Meal> Meals { get; set; }
         public Command LoadItemsCommand { get; set; }
         public List<string> NoteIds { get; set; }
 
@@ -46,10 +47,16 @@ namespace NoteKeeper.ViewModels
             try
             {
                 Notes.Clear();
+                Meals.Clear();
                 var notes = await PluralsightDataStore.GetNotesAsync();
+                var meals = await PluralsightDataStore.GetMealsAsync();
                 foreach (var note in notes)
                 {
                     Notes.Add(note);
+                }
+                foreach (var meal in meals)
+                {
+                    Meals.Add(meal);
                 }
             }
             catch (Exception ex)
