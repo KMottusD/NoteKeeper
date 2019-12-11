@@ -113,6 +113,18 @@ namespace NoteKeeper.Services
             return await Task.FromResult(noteFound);
         }
 
+        public async Task<bool> UpdateMealAsync(Meal mealsItem)
+        {
+            var mealIndex = mockNotes.FindIndex((Note arg) => arg.Id == mealsItem.MealId);
+            var mealFound = mealIndex != -1;
+            if (mealFound)
+            {
+                mealDemos[mealIndex].MealName = mealsItem.MealName;
+                mealDemos[mealIndex].MealDescription = mealsItem.MealDescription;
+            }
+            return await Task.FromResult(mealFound);
+        }
+
         public async Task<Note> GetNoteAsync(string id)
         {
             

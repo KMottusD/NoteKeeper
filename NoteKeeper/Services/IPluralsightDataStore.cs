@@ -11,6 +11,7 @@ namespace NoteKeeper.Services
         Task<String> AddNoteAsync(Note courseNote);
         Task<String> AddMealAsync(Meal mealsItem);
         Task<bool> UpdateNoteAsync(Note courseNote);
+        Task<bool> UpdateMealAsync(Meal mealsItem);
         Task<Note> GetNoteAsync(String id);
         Task<IList<Note>> GetNotesAsync();
         Task<IList<String>> GetCoursesAsync();
