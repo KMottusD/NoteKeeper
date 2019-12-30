@@ -19,13 +19,13 @@ namespace NoteKeeper.Views
             InitializeComponent();
             this.viewModel = viewModel;
             BindingContext = this.viewModel;
-                }
+        }
 
         public ItemDetailPage()
         {
             InitializeComponent();
             viewModel = new ItemDetailViewModel();
-            BindingContext = viewModel;
+        
         }
 
         async void Cancel_Clicked(object sender, EventArgs eventArgs)

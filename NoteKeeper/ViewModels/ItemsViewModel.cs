@@ -21,6 +21,7 @@ namespace NoteKeeper.ViewModels
         {
             Title = "Browse";
             Notes = new ObservableCollection<Note>();
+            Meals = new ObservableCollection<Meal>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 
             MessagingCenter.Subscribe<ItemDetailPage, Note>(this, "SaveNote", async (sender, note) => 

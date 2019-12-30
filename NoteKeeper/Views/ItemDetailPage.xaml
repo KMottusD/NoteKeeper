@@ -12,13 +12,13 @@
                     FontSize="Medium" >
             </Picker>
             <Picker ItemsSource="{Binding MealList}"
-                    SelectedItem="{Binding Note.Course}"
-                    x:Name="NoteCourse2" 
-                    Title="Note course2" 
+                    SelectedItem="{Binding Meal.MealName}"
+                    x:Name="MealList" 
+                    Title="MealList" 
                     FontSize="Medium" >
             </Picker>
         
-        <Entry Text="{Binding Note.Heading}" 
+        <Entry Text="{Binding NoteHeading}" 
                x:Name="NoteHeading" 
                Placeholder="Note heading" 
                FontSize="Medium" />

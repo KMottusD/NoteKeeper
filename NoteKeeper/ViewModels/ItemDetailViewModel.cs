@@ -12,6 +12,9 @@ namespace NoteKeeper.ViewModels
         public IList<String> MealList { get; set; }
         public Meal Meal { get; set; }
 
+
+        // See Sring NoteHeading - oleks vaja teha copy ja NoteCourse ja NoteText kohta samma moodi + ära muuta ItemDetailPage.xamal...
+        // see annab meile selle, et kõik info oleks kogu aeg syncroniseeritud (Managing Data Presentation with Model-View-ViewModel -> Implementing Change Notifications)
         public String NoteHeading
         {
             get { return Note.Heading; }
@@ -36,4 +39,3 @@ namespace NoteKeeper.ViewModels
         }
     }
 }
- 

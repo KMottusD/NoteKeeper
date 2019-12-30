@@ -10,8 +10,7 @@
                     <ViewCell>
                         <StackLayout Padding="10">
                             <Label Text="{Binding Course}" LineBreakMode="NoWrap" Style="{DynamicResource ListItemTextStyle}" FontSize="16" />
-                            <Label Text="{Binding Heading}" LineBreakMode="NoWrap" Style="{DynamicResource ListItemDetailTextStyle}" FontSize="13" />
-                        </StackLayout>
+                            <Label Text="{Binding Heading}" LineBreakMode="NoWrap" Style="{DynamicResource ListItemDetailTextStyle}" FontSize="13" />                        </StackLayout>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
