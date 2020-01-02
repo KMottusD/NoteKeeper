@@ -49,7 +49,9 @@ namespace NoteKeeper.Views
             base.OnAppearing();
 
             if (viewModel.Notes.Count == 0)
+            {
                 viewModel.LoadItemsCommand.Execute(null);
+            }
         }
     }
 }

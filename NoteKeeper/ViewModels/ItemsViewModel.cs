@@ -4,7 +4,6 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using Xamarin.Forms;
-
 using NoteKeeper.Models;
 using NoteKeeper.Views;
 
@@ -19,7 +18,7 @@ namespace NoteKeeper.ViewModels
 
         public ItemsViewModel()
         {
-            Title = "Browse";
+            Title = "Meals";
             Notes = new ObservableCollection<Note>();
             Meals = new ObservableCollection<Meal>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());

@@ -27,7 +27,7 @@ namespace NoteKeeper.ViewModels
 
         public ItemDetailViewModel(Note note = null)
         {
-            Title = "Edit Note";
+            Title = note.Heading;
             InitializeCourselist();
             Note = note ?? new Note();
         }
