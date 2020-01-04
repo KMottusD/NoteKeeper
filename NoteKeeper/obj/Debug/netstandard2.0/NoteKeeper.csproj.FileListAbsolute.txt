@@ -64,7 +64,6 @@ C:/Users/emttkar/Documents/Visual Studio 2019/IsiklikudProjektid/NoteKeeper/Note
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
-/Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/MyPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfoInputs.cache
 /Users/karlmottus/Desktop/VS/Notekeeper/NoteKeeper/NoteKeeper/obj/Debug/netstandard2.0/NoteKeeper.AssemblyInfo.cs

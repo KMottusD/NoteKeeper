@@ -12,7 +12,7 @@ namespace NoteKeeper.Views
     public partial class ItemDetailPage : ContentPage
     {
         ItemDetailViewModel viewModel;
-        ItemsViewModel model = new ItemsViewModel();
+        //ItemsViewModel model = new ItemsViewModel();
 
         public ItemDetailPage(ItemDetailViewModel viewModel)
         {

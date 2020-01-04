@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Windows.Input;
+using NoteKeeper.Views;
 
 using Xamarin.Forms;
 
@@ -17,6 +18,7 @@ namespace NoteKeeper.ViewModels
             }
             set
             {
+
                 _date = value;
                 OnPropertyChanged(nameof(Date));
             }
